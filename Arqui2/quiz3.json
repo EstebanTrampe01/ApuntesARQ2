@@ -1,0 +1,1105 @@
+{
+  "title": "Quiz Completo - LIBRO 3: Anatomía de una arquitectura IoT",
+  "questions": [
+    {
+      "id": "1",
+      "question": "¿Cuál es el enfoque principal del Capítulo 2 sobre arquitectura IoT?",
+      "options": [
+        "Solo aspectos de negocio",
+        "Cómo se deben recopilar, fluir, gestionar, procesar los datos y ponerlos a disposición de la empresa",
+        "Solo hardware de sensores",
+        "Solo protocolos de comunicación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "2",
+      "question": "¿Qué proveedor de servicios en la nube se utiliza como ejemplo en el libro?",
+      "options": [
+        "Microsoft Azure",
+        "Amazon Web Services (AWS)",
+        "Google Cloud Platform",
+        "IBM Cloud"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "3",
+      "question": "¿Qué modelo de referencia fue desarrollado a mediados de la década de 1990 para arquitectura industrial?",
+      "options": [
+        "Modelo TCP/IP",
+        "Arquitectura de Referencia de Purdue",
+        "Modelo OSI",
+        "Arquitectura SOA"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "4",
+      "question": "¿Qué es ISA-95?",
+      "options": [
+        "Un tipo de sensor",
+        "El estándar para la automatización de sistemas de control empresarial basado en el modelo Purdue",
+        "Un protocolo de comunicación",
+        "Un servicio de AWS"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "5",
+      "question": "¿En qué capas del modelo Purdue se enfoca ISA-95?",
+      "options": [
+        "Capas 1 y 2",
+        "Capas 3 y 4",
+        "Capas 5 y 6",
+        "Todas las capas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "6",
+      "question": "¿Qué significa EA en el contexto de arquitectura?",
+      "options": [
+        "Electronic Automation",
+        "Arquitectura Empresarial (Enterprise Architecture)",
+        "Equipment Analysis",
+        "Energy Assessment"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "7",
+      "question": "¿Cuántas capas tiene la arquitectura general de IoT más comúnmente propuesta según el libro?",
+      "options": [
+        "Dos capas",
+        "Tres capas: detección/percepción/hardware, red/comunicación e interfaces/servicios",
+        "Cinco capas",
+        "Seis capas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "8",
+      "question": "¿Qué es un sensor en el contexto de IoT según el libro?",
+      "options": [
+        "Un servidor de datos",
+        "Un transductor que convierte energía de una forma a otra para medir temperatura, presión, etc.",
+        "Un protocolo de red",
+        "Una aplicación de software"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "9",
+      "question": "¿Qué es una RTU?",
+      "options": [
+        "Remote Transfer Unit",
+        "Unidad de Telemetría Remota (Remote Telemetry Unit)",
+        "Real-Time Unit",
+        "Routing Table Unit"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "10",
+      "question": "¿Qué función cumplen los actuadores en IoT?",
+      "options": [
+        "Solo medir variables",
+        "Dispositivos de control que regulan los dispositivos finales a través de entradas de capas superiores",
+        "Solo transmitir datos",
+        "Solo almacenar información"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "11",
+      "question": "¿Qué significa SCADA?",
+      "options": [
+        "System Control And Data Access",
+        "Sistemas de Control y Adquisición de Datos (Supervisory Control and Data Acquisition Systems)",
+        "Secure Communication And Data Analysis",
+        "System Configuration And Device Automation"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "12",
+      "question": "¿Qué significa PLC?",
+      "options": [
+        "Public Logic Control",
+        "Controlador Lógico Programable (Programmable Logic Controller)",
+        "Private Local Communication",
+        "Process Level Control"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "13",
+      "question": "¿Qué protocolos de bus de campo se mencionan para sistemas industriales?",
+      "options": [
+        "Solo HTTP",
+        "Modbus, BACnet o Probus",
+        "Solo TCP/IP",
+        "Solo MQTT"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "14",
+      "question": "¿Qué significa LPWAN?",
+      "options": [
+        "Long Power Wide Access Network",
+        "Redes de Área Amplia de Baja Potencia (Low Power Wide Area Network)",
+        "Local Processing Wide Area Network",
+        "Limited Protocol Wide Access Network"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "15",
+      "question": "¿Qué significa LoRa?",
+      "options": [
+        "Local Radio",
+        "Redes de Largo Alcance (Long Range)",
+        "Low Radiation",
+        "Logic Range"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "16",
+      "question": "¿Cuál es el alcance que puede ofrecer LoRa según el libro?",
+      "options": [
+        "Hasta 100 metros",
+        "Hasta varios kilómetros",
+        "Solo 50 metros",
+        "10 kilómetros exactamente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "17",
+      "question": "¿Qué funciones cumplen los servidores y aplicaciones perimetrales (edge)?",
+      "options": [
+        "Solo almacenamiento",
+        "Conversión de protocolos, reducción de latencia, análisis in situ en tiempo real",
+        "Solo comunicación",
+        "Solo visualización"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "18",
+      "question": "¿Qué es un gemelo digital según el libro?",
+      "options": [
+        "Una copia de seguridad de datos",
+        "Una representación/réplica digital del dispositivo que mantiene su estado y configuración actuales",
+        "Un protocolo de comunicación",
+        "Un tipo de sensor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "19",
+      "question": "¿Cuál es el propósito de la capa de gestión de dispositivos?",
+      "options": [
+        "Solo análisis de datos",
+        "Incorporación, administración, seguridad de dispositivos y gestión de certificados",
+        "Solo almacenamiento",
+        "Solo comunicación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "20",
+      "question": "¿Qué servicio de AWS se menciona para almacenamiento en un lago de datos?",
+      "options": [
+        "AWS RDS",
+        "Simple Storage Service (S3)",
+        "AWS DynamoDB",
+        "AWS Redshift"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "21",
+      "question": "¿Cuál es la principal ventaja de un lago de datos sobre un almacén de datos?",
+      "options": [
+        "Solo es más barato",
+        "Almacena cualquier tipo de archivo en cualquier formato sin necesidad de estructurarlos previamente",
+        "Solo es más rápido",
+        "Solo es más seguro"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "22",
+      "question": "¿Cuántas capas principales se mencionan en el enfoque de lago de datos del libro?",
+      "options": [
+        "Dos capas",
+        "Tres capas: datos sin procesar, datos formateados y datos curados",
+        "Cuatro capas",
+        "Cinco capas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "23",
+      "question": "¿Qué característica tiene la capa de datos sin procesar?",
+      "options": [
+        "Los datos están altamente procesados",
+        "Los datos se almacenan en su formato original y son inmutables (no se pueden cambiar)",
+        "Los datos se pueden modificar libremente",
+        "Los datos están siempre encriptados"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "24",
+      "question": "¿Qué estructura de carpetas se sugiere como ejemplo para datos de series temporales?",
+      "options": [
+        "Solo por fecha",
+        "Source → Component → Type → Year → Month → Day → Hour → <Minute>:<Second>",
+        "Solo alfabético",
+        "Solo por tipo de sensor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "25",
+      "question": "¿Qué ocurre en la capa de datos formateados?",
+      "options": [
+        "Solo almacenamiento",
+        "Transformación inicial: cadenas binarias se convierten en valores reales como temperatura y humedad",
+        "Solo visualización",
+        "Solo eliminación de datos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "26",
+      "question": "¿Qué formatos de archivo se mencionan para la capa de datos formateados?",
+      "options": [
+        "Solo TXT",
+        "CSV, Parquet, Apache ORC o Avro",
+        "Solo XML",
+        "Solo JSON"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "27",
+      "question": "¿Qué significa ETO en el contexto agrícola mencionado en el libro?",
+      "options": [
+        "Energy Transfer Operation",
+        "Evapotranspiración (Evapotranspiration)",
+        "Electronic Temperature Output",
+        "Efficient Thermal Optimization"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "28",
+      "question": "¿Qué función cumple la capa de datos curados?",
+      "options": [
+        "Solo almacenamiento sin procesar",
+        "Estructurar datos para análisis, combinar, agregar, calcular valores adicionales e integrar con otras fuentes",
+        "Solo transmisión",
+        "Solo visualización básica"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "29",
+      "question": "¿Qué es un Data Lakehouse según el libro?",
+      "options": [
+        "Un tipo de sensor",
+        "Enfoque que combina la flexibilidad de un lago de datos con la facilidad de consulta de un almacén de datos",
+        "Un protocolo de red",
+        "Una herramienta de visualización"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "30",
+      "question": "¿Cuáles son las dos áreas principales de enfoque en la capa de análisis y aprendizaje automático?",
+      "options": [
+        "Solo almacenamiento y transmisión",
+        "Aprendizaje automático y análisis de negocio",
+        "Solo visualización",
+        "Solo seguridad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "31",
+      "question": "¿Qué objetivos se esperan al implementar aprendizaje automático en IoT industrial?",
+      "options": [
+        "Solo reducir costos",
+        "Análisis de datos de sensores de máquina y análisis de video o imagen para detectar anomalías",
+        "Solo almacenar más datos",
+        "Solo mejorar comunicación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "32",
+      "question": "¿Cuál es la diferencia entre análisis de negocio e inteligencia de negocio según el libro?",
+      "options": [
+        "No hay diferencia",
+        "Análisis de negocio está enfocado en el futuro, inteligencia de negocio mira al pasado",
+        "Son exactamente lo mismo",
+        "Uno es para IoT y otro no"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "33",
+      "question": "¿Qué beneficios ofrece el análisis en el borde (edge analytics)?",
+      "options": [
+        "Solo reduce costos",
+        "Reacción en tiempo real y evita ralentizaciones por exceso de ancho de banda",
+        "Solo mejora visualización",
+        "Solo aumenta almacenamiento"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "34",
+      "question": "¿Por qué es importante el análisis edge cuando los procesos ocurren rápidamente?",
+      "options": [
+        "Solo por cumplimiento normativo",
+        "En algunos procesos de fabricación, milisegundos cuentan y no se puede esperar latencia de la nube",
+        "Solo por preferencia del usuario",
+        "No es importante"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "35",
+      "question": "¿Cuáles son las dos opciones principales de visualización e informes mencionadas?",
+      "options": [
+        "Solo gráficos y tablas",
+        "Informes (permiten explorar datos en detalle) y paneles de control (muestran estado en tiempo real)",
+        "Solo dashboards",
+        "Solo exportación a Excel"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "36",
+      "question": "¿Qué desafío se menciona con las soluciones de visualización listas para usar?",
+      "options": [
+        "Son demasiado caras",
+        "Ofrecen buenas capacidades dentro de su propio dominio pero incorporar datos de otras fuentes puede ser complejo",
+        "No funcionan",
+        "Son demasiado lentas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "37",
+      "question": "¿Qué se menciona como motor importante de cambio en las organizaciones?",
+      "options": [
+        "Solo la tecnología",
+        "Los procesos (la mejor solución técnica puede fracasar si los procesos no cambian)",
+        "Solo el presupuesto",
+        "Solo el personal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "38",
+      "question": "¿Qué significa OT según el contexto del libro?",
+      "options": [
+        "Online Technology",
+        "Tecnología Operativa (Operational Technology)",
+        "Output Transfer",
+        "Optimal Transmission"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "39",
+      "question": "¿Cuál es el objetivo de definir patrones de automatización según el libro?",
+      "options": [
+        "Solo documentar",
+        "Estandarizar hardware, software y adquisición de datos basados en tipo de dispositivo para simplificar despliegue",
+        "Solo reducir personal",
+        "Solo aumentar velocidad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "40",
+      "question": "¿Qué protocolos se mencionan como fácilmente compatibles con redes IP?",
+      "options": [
+        "Solo Modbus",
+        "MQTT que utiliza TCP para enviar mensajes",
+        "Solo serial",
+        "Solo propietarios"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "41",
+      "question": "¿Qué desafío adicional enfrentan las grandes organizaciones con muchas instalaciones?",
+      "options": [
+        "Solo costos",
+        "Poca estandarización y homogeneidad entre fábricas",
+        "Solo personal",
+        "Solo tecnología"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "42",
+      "question": "¿Qué ventaja ofrece el uso de capas en la arquitectura?",
+      "options": [
+        "Solo estética",
+        "Permite agrupar funciones similares y fomenta la separación de responsabilidades",
+        "Solo reduce costos",
+        "No ofrece ventajas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "43",
+      "question": "¿Qué debe esperarse en cuanto a tiempo para que los datos estén disponibles para análisis?",
+      "options": [
+        "Instantáneo siempre",
+        "Un retraso de varios minutos o más es esperado (análisis en tiempo real cercano o 'near' real-time)",
+        "Siempre días",
+        "Nunca llegan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "44",
+      "question": "¿Qué es importante definir entre capas y sistemas según el libro?",
+      "options": [
+        "Solo el color",
+        "El contrato entre capas y sistemas debe estar bien definido para permitir flexibilidad",
+        "Solo el nombre",
+        "Solo el costo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "45",
+      "question": "¿Por qué tecnologías como LoRa, Bluetooth y Zigbee necesitan un gateway?",
+      "options": [
+        "Por regulaciones",
+        "No tienen acceso al protocolo IP y necesitan traducción bidireccional de protocolos",
+        "Por diseño estético",
+        "No necesitan gateway"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "46",
+      "question": "¿Qué función adicional puede cumplir el gateway según el libro?",
+      "options": [
+        "Solo transmitir",
+        "Administrar dispositivos de la capa de acceso (monitorear cuando se unen o abandonan la red)",
+        "Solo almacenar",
+        "Solo medir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "47",
+      "question": "¿Qué es un modelo de referencia según el libro?",
+      "options": [
+        "Solo un documento",
+        "Guía basada en mejores prácticas de otros equipos que muestra cómo las cosas pueden encajar juntas",
+        "Un tipo de hardware",
+        "Un protocolo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "48",
+      "question": "¿Qué beneficios proporcionan los modelos de referencia?",
+      "options": [
+        "Solo documentación",
+        "Guían cómo encajan las cosas y proporcionan forma de comunicar a la organización hacia dónde se dirige",
+        "Solo costos",
+        "Solo velocidad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "49",
+      "question": "¿Qué enfoque se recomienda para crear modelos de referencia?",
+      "options": [
+        "Hacerlos lo más complejos posible",
+        "Evitar modelos demasiado complejos, dividir en niveles (0, 1, 2, 3) de complejidad",
+        "Solo un nivel",
+        "No usar modelos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "50",
+      "question": "¿Qué enfoque arquitectónico se prefiere según el libro: tradicional o ágil?",
+      "options": [
+        "Siempre tradicional",
+        "Enfoque ágil: construir solo lo que necesitas, cuando lo necesitas (especialmente con limitaciones de tiempo/presupuesto)",
+        "Siempre diseñar para cada ocurrencia futura",
+        "No importa"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "51",
+      "question": "¿Qué riesgo existe al sobretrabajar la arquitectura?",
+      "options": [
+        "Ninguno",
+        "Puede costar más tiempo y esfuerzo tanto inicialmente como a largo plazo",
+        "Solo beneficios",
+        "Solo reducción de costos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "52",
+      "question": "¿Cuáles son los patrones principales de automatización mencionados?",
+      "options": [
+        "Solo uno",
+        "Sistemas de control industrial (SCADA/PLC), redes IP de dispositivos y redes IoT (LPWAN)",
+        "Solo SCADA",
+        "Solo redes IP"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "53",
+      "question": "¿Qué características tienen los sistemas de control industrial heredados?",
+      "options": [
+        "Son siempre abiertos",
+        "Suelen ser de lazo cerrado, pueden requerir conversión de protocolos para enviar datos externos",
+        "No tienen características especiales",
+        "Son siempre nuevos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "54",
+      "question": "¿Cuál es la prioridad número uno del equipo de producción al instrumentar?",
+      "options": [
+        "Velocidad",
+        "Evitar cualquier interrupción en la producción en curso",
+        "Costo",
+        "Estética"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "55",
+      "question": "¿Qué alternativas a LoRa se mencionan cuando se requiere red pública?",
+      "options": [
+        "Solo WiFi",
+        "4G o 5G",
+        "Solo Ethernet",
+        "Solo Bluetooth"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "56",
+      "question": "¿Qué debe considerarse entre la fábrica y la red corporativa?",
+      "options": [
+        "Solo velocidad",
+        "División lógica y física, definir transporte de manera segura para proteger ambas redes de intrusiones",
+        "Solo costo",
+        "Solo distancia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "57",
+      "question": "¿Qué problema puede causar un sensor que mide cientos de veces por segundo?",
+      "options": [
+        "Solo consume batería",
+        "Puede generar gran cantidad de datos que sobrecargan el ancho de banda al enviar a la nube",
+        "No causa problemas",
+        "Solo requiere más almacenamiento"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "58",
+      "question": "¿Para qué se debe usar metadata management según el libro?",
+      "options": [
+        "Solo por cumplimiento",
+        "Almacenar información sobre datos: fuente, destino, refresh intervals, tipo, formato, ciclo de vida, transformación, seguridad",
+        "No es necesario",
+        "Solo para auditoría"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "59",
+      "question": "¿Qué servicio de AWS se menciona para bases de datos relacionales de metadatos?",
+      "options": [
+        "S3",
+        "AWS Relational Data Service (RDS)",
+        "Lambda",
+        "EC2"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "60",
+      "question": "¿Qué factores determinan las decisiones sobre ingesta de datos según el libro?",
+      "options": [
+        "Solo el costo",
+        "Formato, protocolo, volumen y velocidad de los datos",
+        "Solo el hardware",
+        "Solo la ubicación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "61",
+      "question": "¿Qué consideraciones se mencionan sobre almacenar datos sin procesar?",
+      "options": [
+        "Nunca almacenarlos",
+        "Considerar transformación en edge, conversión de formato antes de almacenar, y costo/beneficio a largo plazo",
+        "Siempre almacenarlos sin considerar nada",
+        "Solo por regulaciones"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "62",
+      "question": "¿Qué ejemplo de caso de estudio de IoT se menciona en el libro?",
+      "options": [
+        "Una fábrica automotriz",
+        "Un gran club de golf en el desierto con sistema de riego complejo",
+        "Una planta nuclear",
+        "Un hospital"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "63",
+      "question": "¿Qué se monitoreó en el caso de estudio del club de golf?",
+      "options": [
+        "Solo la temperatura",
+        "Tasas de flujo de agua, datos de bombas, niveles de lagos, datos meteorológicos, humedad del suelo",
+        "Solo personas",
+        "Solo electricidad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "64",
+      "question": "¿Cuál era el objetivo final del proyecto del club de golf?",
+      "options": [
+        "Solo recopilar datos",
+        "Encontrar eficiencia, reducir desperdicios y costos, y buscar anomalías en el sistema",
+        "Solo visualización",
+        "Solo cumplimiento"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "65",
+      "question": "¿Qué se menciona sobre el aprendizaje automático en relación al análisis?",
+      "options": [
+        "Son completamente diferentes",
+        "El aprendizaje automático a menudo comienza con análisis para entender los datos y las relaciones",
+        "No están relacionados",
+        "Uno reemplaza al otro"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "66",
+      "question": "¿Qué objetivos tienen los arquitectos según el libro?",
+      "options": [
+        "Solo reducir costos",
+        "Definir arquitectura que sirva al negocio y sea funcional, robusta, escalable, segura y rentable",
+        "Solo documentar",
+        "Solo seleccionar hardware"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "67",
+      "question": "¿Qué es un estándar según la definición del libro?",
+      "options": [
+        "Una sugerencia opcional",
+        "Una regla estricta que describe cómo se debe hacer algo",
+        "Una guía flexible",
+        "Una recomendación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "68",
+      "question": "¿Qué es una convención según la definición del libro?",
+      "options": [
+        "Una regla estricta obligatoria",
+        "Una sugerencia o guía sobre cómo hacer algo, pero no es necesario seguirla al pie de la letra",
+        "Una ley",
+        "Un estándar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "69",
+      "question": "¿Por qué son importantes los estándares según el libro?",
+      "options": [
+        "Solo por documentación",
+        "Son importantes especialmente para equipos grandes o proyectos de largo plazo para asegurar calidad del código",
+        "No son importantes",
+        "Solo por cumplimiento"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "70",
+      "question": "¿Qué recomendación se da para revisiones de proyectos?",
+      "options": [
+        "Nunca revisar",
+        "Hacer revisiones trimestrales o semestrales del código fuente, documentación de arquitectura y calidad del producto",
+        "Solo al final del proyecto",
+        "Solo cuando hay problemas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "71",
+      "question": "¿Qué se debe revisar en el sistema de gestión de código fuente?",
+      "options": [
+        "Solo el código",
+        "Nombres de proyectos/repositorios tengan sentido, sean consistentes, tengan descripciones y documentación actual",
+        "Solo los commits",
+        "Solo los branches"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "72",
+      "question": "¿Qué se menciona sobre herramientas de análisis estático de código?",
+      "options": [
+        "Son obligatorias al 100%",
+        "Pueden ser muy útiles pero 100% adherencia no siempre es posible, usar judiciosamente",
+        "No sirven",
+        "Son solo para principiantes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "73",
+      "question": "¿Qué balance debe encontrar el arquitecto según el libro?",
+      "options": [
+        "Solo enfocarse en velocidad",
+        "Balance entre grado de supervisión (calidad) y rapidez en ejecución del proyecto",
+        "Solo enfocarse en calidad sin importar tiempo",
+        "No hay balance necesario"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "74",
+      "question": "¿Qué se recomienda hacer para establecer expectativas con la gerencia?",
+      "options": [
+        "No comunicarse",
+        "Construir buena relación y confianza, sopesar supervisión vs rapidez",
+        "Solo reportar problemas",
+        "Evitar interacciones"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "75",
+      "question": "¿Qué enfoque alternativo de nombres se menciona para las capas del lago de datos?",
+      "options": [
+        "Rojo, Verde, Azul",
+        "Bronze, Silver y Gold",
+        "Alfa, Beta, Gamma",
+        "Bajo, Medio, Alto"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "76",
+      "question": "¿Es obligatorio tener exactamente tres capas en el lago de datos?",
+      "options": [
+        "Sí, siempre tres",
+        "No, se pueden tener más o menos dependiendo de factores como tamaño, tipo de datos o requisitos legales",
+        "Siempre cinco",
+        "Solo una capa"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "77",
+      "question": "¿Qué desafío se menciona sobre definir el esquema de datos?",
+      "options": [
+        "Es siempre fácil",
+        "Es común a cualquier almacenamiento y a menudo se tiene menos información en la etapa inicial sobre uso futuro",
+        "No hay desafío",
+        "Solo depende del hardware"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "78",
+      "question": "¿Qué consejo se da sobre definir esquemas de datos?",
+      "options": [
+        "Hacerlo rápidamente sin pensar",
+        "Avanzar con cautela y lentamente, es fácil arrepentirse y terminar invirtiendo tiempo en eliminar deuda técnica",
+        "Copiar siempre de otros",
+        "No es importante"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "79",
+      "question": "¿Qué puede ocurrir en la capa formateada con datos de diversos sistemas?",
+      "options": [
+        "Siempre es simple",
+        "Puede variar considerablemente si se reciben datos de diversos sistemas con diferentes esquemas de codificación",
+        "No hay variación",
+        "Todo es automático"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "80",
+      "question": "¿Por qué se codifican los datos de medición según el libro?",
+      "options": [
+        "Por estética",
+        "Para garantizar el menor uso de ancho de banda posible al transmitir",
+        "Por regulaciones",
+        "No se mencionan razones"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "81",
+      "question": "¿Qué se puede hacer en la capa de datos curados?",
+      "options": [
+        "Solo almacenar",
+        "Combinar datos de otras fuentes como sistemas financieros o empresariales",
+        "Solo visualizar",
+        "Solo eliminar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "82",
+      "question": "¿Qué significa desnormalizar los datos en la capa curada?",
+      "options": [
+        "Eliminarlos",
+        "Reformatear e integrar en almacenes de datos tradicionales o sistemas de análisis a medida que se conocen necesidades",
+        "Comprimirlos",
+        "Encriptarlos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "83",
+      "question": "¿Qué nivel de acceso debe tener la capa de datos curados?",
+      "options": [
+        "Acceso público ilimitado",
+        "Mayor libertad dentro de la organización pero aún debe restringirse según necesidades",
+        "Acceso completamente bloqueado",
+        "Solo administradores"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "84",
+      "question": "¿Qué enfoque se puede usar en la fase de diseño con IoTSeMo según el documento?",
+      "options": [
+        "Solo bottom-up",
+        "Enfoque descendente (top-down) para mapear componentes",
+        "Solo horizontal",
+        "No se menciona"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "85",
+      "question": "¿Cuál es uno de los mayores desafíos en el caso de estudio del club de golf?",
+      "options": [
+        "Solo el costo",
+        "Estimar la dureza del green y cómo el clima, riego y otras variables lo afectan",
+        "Solo la instalación",
+        "Solo el personal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "86",
+      "question": "¿Qué pregunta básica sobre análisis se puede responder fácilmente según el libro?",
+      "options": [
+        "Pronóstico del clima",
+        "¿Cuántos widgets fabricamos y enviamos el mes pasado y cuál es nuestra predicción?",
+        "Precio de acciones",
+        "Preferencias de clientes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "87",
+      "question": "¿Qué preguntas más esclarecedoras surgen sobre los sistemas según el libro?",
+      "options": [
+        "Solo sobre costos",
+        "¿Están disminuyendo su rendimiento o aumentando temperatura? ¿Necesitamos mantenimiento preventivo?",
+        "Solo sobre personal",
+        "Solo sobre ubicación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "88",
+      "question": "¿Por qué no se cubre el análisis de imagen en detalle en el libro?",
+      "options": [
+        "No es importante",
+        "Es un tema especializado bien cubierto en fuentes en línea y otros libros disponibles",
+        "Es demasiado complejo",
+        "No existe"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "89",
+      "question": "¿Qué tipo de modelo de análisis avanzado se menciona como ejemplo?",
+      "options": [
+        "Solo conteo de productos",
+        "Modelo de balance de demanda de agua que considera clima, demanda histórica, suministro, costos para predecir demanda",
+        "Solo análisis de temperaturas",
+        "Solo reportes simples"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "90",
+      "question": "¿Qué beneficio proporciona el análisis de imagen en manufactura?",
+      "options": [
+        "Solo documentación",
+        "Detectar objetos o anomalías en imagen, evaluar calidad de salida temprano en procesos de manufactura",
+        "Solo almacenamiento",
+        "Solo velocidad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "91",
+      "question": "¿Qué debe proporcionar el análisis a los usuarios de negocio?",
+      "options": [
+        "Solo datos sin procesar",
+        "Herramientas para comprender mejor lo que sucede a nivel de producción",
+        "Solo gráficos bonitos",
+        "Solo reportes históricos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "92",
+      "question": "¿Qué permite la instrumentación y evaluación comparativa de equipos?",
+      "options": [
+        "Solo costos",
+        "Responder preguntas sobre rendimiento, temperatura, necesidad de mantenimiento y prolongación de vida útil",
+        "Solo documentación",
+        "Solo apariencia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "93",
+      "question": "¿En qué capa residen oficialmente edge computing y análisis edge?",
+      "options": [
+        "En la misma capa que análisis de negocio",
+        "En una capa completamente diferente (capas inferiores near the edge)",
+        "En la capa de visualización",
+        "No tienen capa"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "94",
+      "question": "¿Por qué algunos datos de alta frecuencia necesitan preprocesamiento en el edge?",
+      "options": [
+        "Por regulaciones",
+        "Sensor mide cientos de veces por segundo, puede generar gran cantidad de datos que sobrecarga el ancho de banda",
+        "Por diseño",
+        "No es necesario"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "95",
+      "question": "¿Qué ejemplo simple de análisis se menciona para una bomba?",
+      "options": [
+        "Solo si está encendida",
+        "Consumo de energía frente al caudal, incluyendo costos de energía para determinar ahorros",
+        "Solo el color",
+        "Solo la ubicación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "96",
+      "question": "¿Qué se menciona sobre productos listos para usar con capacidades de visualización?",
+      "options": [
+        "Son siempre la mejor opción",
+        "Puede ser tentador comenzar con ellos pero incorporar datos de otras fuentes puede ser complejo",
+        "Nunca funcionan",
+        "Son siempre gratuitos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "97",
+      "question": "¿Qué se debe considerar al evaluar una solución predefinida?",
+      "options": [
+        "Solo el precio",
+        "Si puede combinar datos de diversas fuentes y si el costo de desarrollo personalizado es prohibitivo",
+        "Solo la marca",
+        "Solo el color"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "98",
+      "question": "¿Por qué los autores construyeron productos de BI personalizados en proyectos anteriores?",
+      "options": [
+        "Solo por diversión",
+        "IoT era nuevo, análisis de series temporales era nuevo, crear interfaz fácil de usar, y era para productos comerciales",
+        "Solo por costo",
+        "Por regulaciones"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "99",
+      "question": "¿Qué diferencia existe hoy respecto a hace años en herramientas de análisis IoT?",
+      "options": [
+        "No hay diferencia",
+        "Muchos sistemas de control industrial y productos de terceros ahora proporcionan capacidad de análisis",
+        "Todo es más difícil",
+        "Ya no se usa análisis"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "100",
+      "question": "¿Qué se recomienda al final del capítulo sobre el enfoque presentado?",
+      "options": [
+        "Seguirlo exactamente sin cambios",
+        "Disfrutar del proceso de conectar los puntos y considerar alternativas según su entorno y necesidades",
+        "Ignorarlo completamente",
+        "Solo usarlo para AWS"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

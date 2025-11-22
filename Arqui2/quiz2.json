@@ -1,0 +1,1105 @@
+{
+  "title": "Quiz Completo - LIBRO 2: Modelo de seguridad para aplicaciones IoT - IoTSeMo",
+  "questions": [
+    {
+      "id": "1",
+      "question": "¿Qué significa IoTSeMo?",
+      "options": [
+        "Internet of Things Security Model",
+        "Modelo de Seguridad IoT (IoT Security Model)",
+        "IoT Service Model",
+        "IoT Sensor Model"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "2",
+      "question": "¿Qué significa M2H en el contexto de IoT?",
+      "options": [
+        "Machine to Hardware",
+        "Mobile to Home",
+        "Machine to Human (Máquina a Humano)",
+        "Monitor to Host"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "3",
+      "question": "¿Qué significa M2M en el contexto de IoT?",
+      "options": [
+        "Mobile to Mobile",
+        "Machine to Machine (Máquina a Máquina)",
+        "Monitor to Monitor",
+        "Memory to Memory"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "4",
+      "question": "¿Qué tecnologías de comunicación menciona el documento como parte del IoT además de RFID?",
+      "options": [
+        "Solo WiFi",
+        "Bluetooth, WiFi, GSM, NFC y comunicación satelital",
+        "Solo comunicación satelital",
+        "Solo tecnología 5G"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "5",
+      "question": "¿Qué significa GSM?",
+      "options": [
+        "General Service Mobile",
+        "Global System for Mobile Communications (Sistema Global para Comunicaciones Móviles)",
+        "Global Security Module",
+        "General Sensor Management"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "6",
+      "question": "¿Qué significa NFC?",
+      "options": [
+        "Network File Communication",
+        "New Frequency Control",
+        "Near Field Communication (Comunicación de Campo Cercano)",
+        "Network Flow Control"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "7",
+      "question": "¿Qué tecnologías se utilizan actualmente para aplicaciones IoT según el documento?",
+      "options": [
+        "Solo 2G",
+        "Tecnologías 3G y 4G",
+        "Solo 5G",
+        "Solo WiFi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "8",
+      "question": "¿Qué beneficios ofrece la tecnología 5G para IoT?",
+      "options": [
+        "Solo mayor velocidad",
+        "Mayor velocidad de transmisión, baja latencia, escalabilidad y movilidad",
+        "Solo reducción de costos",
+        "Solo mayor cobertura"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "9",
+      "question": "¿Qué significa eMBB en el contexto de 5G?",
+      "options": [
+        "Enhanced Mobile Broadband (Banda Ancha Móvil Mejorada)",
+        "Extended Mobile Base",
+        "Efficient Mobile Battery",
+        "Electronic Mobile Bridge"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "10",
+      "question": "¿Qué significa URLLC?",
+      "options": [
+        "Universal Radio Link Control",
+        "Ultra-Reliable Low-Latency Communications (Comunicaciones Ultraconfiables de Baja Latencia)",
+        "Unified Resource Logical Control",
+        "Universal Range Low Latency Connection"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "11",
+      "question": "¿Qué significa mMTC?",
+      "options": [
+        "Mobile Machine Type Control",
+        "Massive Machine Type Communications (Comunicaciones Masivas Tipo Máquina)",
+        "Multiple Mobile Transfer Control",
+        "Mobile Multimedia Transmission Control"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "12",
+      "question": "¿Cuáles son los tres desafíos técnicos principales del IoT con 5G según el documento?",
+      "options": [
+        "Solo costos",
+        "Escalabilidad y gestión de red, interoperabilidad y heterogeneidad, seguridad y privacidad",
+        "Solo seguridad",
+        "Solo velocidad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "13",
+      "question": "¿Cuántas capas tiene la arquitectura general de IoT más comúnmente propuesta?",
+      "options": [
+        "Dos capas",
+        "Tres capas",
+        "Cuatro capas",
+        "Cinco capas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "14",
+      "question": "¿Cuáles son las tres capas de la arquitectura general de IoT?",
+      "options": [
+        "Física, lógica y aplicación",
+        "Capa de detección/percepción/hardware, capa de red/comunicación y capa de interfaces/servicios",
+        "Sensores, procesamiento y almacenamiento",
+        "Edge, fog y cloud"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "15",
+      "question": "¿Qué componentes se encuentran en la capa de detección/percepción/hardware?",
+      "options": [
+        "Solo servidores",
+        "Sensores, lectores RFID, etiquetas, actuadores y gateways",
+        "Solo aplicaciones",
+        "Solo bases de datos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "16",
+      "question": "¿Qué es un sensor en el contexto de IoT?",
+      "options": [
+        "Un software de análisis",
+        "Un dispositivo que detecta un estímulo del entorno y lo convierte en impulso eléctrico",
+        "Una base de datos",
+        "Un protocolo de comunicación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "17",
+      "question": "¿Qué es un actuador en IoT?",
+      "options": [
+        "Un tipo de sensor",
+        "Un dispositivo que recibe una entrada (señal eléctrica) y realiza una acción",
+        "Un protocolo de red",
+        "Un sistema operativo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "18",
+      "question": "¿Qué tipos de actuadores se mencionan en el documento?",
+      "options": [
+        "Solo eléctricos",
+        "Hidráulicos, neumáticos, eléctricos, térmicos/magnéticos y mecánicos",
+        "Solo mecánicos",
+        "Solo digitales"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "19",
+      "question": "¿Cuál es la función de un gateway en IoT?",
+      "options": [
+        "Solo almacenar datos",
+        "Recibir, correlacionar y enviar información a otros nodos; actúa como intermediario",
+        "Solo medir temperatura",
+        "Solo proporcionar energía"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "20",
+      "question": "¿Qué tecnologías operan sobre redes inalámbricas personales de baja velocidad (LR-WPAN - IEEE 802.15.4)?",
+      "options": [
+        "Solo WiFi",
+        "ZigBee, 6LoWPAN y WirelessHART",
+        "Solo Ethernet",
+        "Solo 5G"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "21",
+      "question": "¿Qué significa LoRa?",
+      "options": [
+        "Local Radio",
+        "Long Range (Largo Alcance)",
+        "Low Radiation",
+        "Limited Range"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "22",
+      "question": "¿De qué se encarga la capa de red/comunicación?",
+      "options": [
+        "Solo de sensores",
+        "De la comunicación entre dispositivos IoT o con otros dispositivos como servidores",
+        "Solo de almacenamiento",
+        "Solo de interfaces de usuario"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "23",
+      "question": "¿Qué función tienen los enrutadores (routers) en la capa de red?",
+      "options": [
+        "Solo almacenar datos",
+        "Verificar datos recibidos, configurar rutas y enviarlos a través de diferentes redes",
+        "Solo medir temperatura",
+        "Solo proporcionar energía"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "24",
+      "question": "¿Qué función tienen los repetidores en IoT?",
+      "options": [
+        "Almacenar información",
+        "Amplificar la señal para que llegue correctamente a su destino",
+        "Procesar datos",
+        "Analizar información"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "25",
+      "question": "¿Qué función tienen los agregadores en IoT?",
+      "options": [
+        "Solo transmitir datos",
+        "Facilitar integración y gestión de grandes volúmenes de datos, normalizar datos y proporcionar interfaces estandarizadas",
+        "Solo almacenar datos",
+        "Solo medir variables"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "26",
+      "question": "¿Qué patrones de comunicación emplean los protocolos de mensajería en redes IoT?",
+      "options": [
+        "Solo broadcast",
+        "Solicitud/respuesta o publicación/suscripción",
+        "Solo unicast",
+        "Solo multicast"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "27",
+      "question": "¿Qué protocolos de mensajería se mencionan para IoT?",
+      "options": [
+        "Solo HTTP",
+        "JMS, XMPP, MQTT, MQTT-SN, DDS, CoAP y AMQP",
+        "Solo FTP",
+        "Solo SMTP"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "28",
+      "question": "¿Qué significa MQTT?",
+      "options": [
+        "Message Query Transfer Technology",
+        "Message Queuing Telemetry Transport",
+        "Mobile Quality Testing Tool",
+        "Multiple Queue Transfer Technology"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "29",
+      "question": "¿Qué significa CoAP?",
+      "options": [
+        "Communication Application Protocol",
+        "Constrained Application Protocol (Protocolo de Aplicación Restringida)",
+        "Cloud Access Protocol",
+        "Control Automation Protocol"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "30",
+      "question": "¿Cuáles son los modelos de comunicación más comunes en IoT?",
+      "options": [
+        "Solo D2D",
+        "D2D (dispositivo a dispositivo), D2C (dispositivo a nube), D2G (dispositivo a gateway) y modelo de datos compartidos",
+        "Solo D2C",
+        "Solo comunicación inalámbrica"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "31",
+      "question": "¿Qué velocidad ofrece la tecnología 5G según el documento?",
+      "options": [
+        "1 GBps",
+        "Más de 10 GBps",
+        "100 MBps",
+        "500 MBps"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "32",
+      "question": "¿Qué latencia ofrece la tecnología 5G?",
+      "options": [
+        "10 milisegundos",
+        "Inferior a 1 milisegundo",
+        "100 milisegundos",
+        "5 milisegundos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "33",
+      "question": "¿Qué capa adicional se menciona que algunas arquitecturas IoT incluyen entre comunicación y aplicación?",
+      "options": [
+        "Capa de almacenamiento",
+        "Capa de Servicio de Gestión",
+        "Capa de visualización",
+        "Capa de energía"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "34",
+      "question": "¿Qué función tiene la capa de Servicio de Gestión?",
+      "options": [
+        "Solo almacenar datos",
+        "Procesar información, filtrar datos, formular lógicas de decisión y proporcionar respuestas en tiempo real",
+        "Solo transmitir datos",
+        "Solo visualizar información"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "35",
+      "question": "¿Qué hace la capa de Procesamiento en algunas arquitecturas IoT?",
+      "options": [
+        "Solo transmitir datos",
+        "Almacenar, analizar y transformar información, y tomar decisiones en tiempo real",
+        "Solo medir variables",
+        "Solo proporcionar interfaces"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "36",
+      "question": "¿Qué función cumple la capa de Negocio en arquitecturas IoT?",
+      "options": [
+        "Solo almacenamiento",
+        "Abarca reglas de negocio, análisis, gestión de procesos, privacidad y control de datos de usuario",
+        "Solo comunicación",
+        "Solo sensores"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "37",
+      "question": "¿Qué empresa presenta un marco arquitectónico IoT con dos pilas paralelas de tres capas?",
+      "options": [
+        "Microsoft",
+        "Cisco",
+        "Google",
+        "Amazon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "38",
+      "question": "¿Cuáles son las dos pilas en el marco arquitectónico de Cisco para IoT?",
+      "options": [
+        "Hardware y software",
+        "Pila funcional stackCore IoT y pila de gestión de datos y computación stackIoT",
+        "Sensores y actuadores",
+        "Local y remoto"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "39",
+      "question": "¿Qué es la computación en la nube según el documento?",
+      "options": [
+        "Solo almacenamiento remoto",
+        "Modelo que permite acceso bajo demanda a recursos informáticos que se pueden aprovisionar rápidamente",
+        "Solo procesamiento local",
+        "Solo redes privadas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "40",
+      "question": "¿Cuáles son los tres modelos de servicio de la nube?",
+      "options": [
+        "Pequeño, mediano y grande",
+        "SaaS (Software como Servicio), PaaS (Plataforma como Servicio) e IaaS (Infraestructura como Servicio)",
+        "Local, regional y global",
+        "Público, privado y personal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "41",
+      "question": "¿Qué es Fog Computing (Computación en la niebla)?",
+      "options": [
+        "Lo mismo que cloud computing",
+        "Capa intermedia entre edge y cloud que filtra datos y envía resultados concretos a la nube",
+        "Solo almacenamiento local",
+        "Solo procesamiento en dispositivos móviles"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "42",
+      "question": "¿Qué ventaja ofrece Fog Computing sobre Cloud Computing en IoT?",
+      "options": [
+        "Solo es más barato",
+        "Ayuda a resolver limitaciones de almacenamiento y análisis de grandes volúmenes de datos, reduce ancho de banda",
+        "Solo es más rápido",
+        "No ofrece ventajas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "43",
+      "question": "¿Qué es Edge Computing (Computación en el borde)?",
+      "options": [
+        "Procesamiento solo en la nube",
+        "Paradigma que permite procesar datos cerca de la fuente en lugar de ubicaciones centralizadas",
+        "Solo almacenamiento remoto",
+        "Solo redes móviles"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "44",
+      "question": "¿Qué ventaja principal ofrece Edge Computing?",
+      "options": [
+        "Solo reducción de costos",
+        "Reduce la latencia al procesar datos cerca de donde se consumen",
+        "Solo mayor almacenamiento",
+        "Solo mayor velocidad de red"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "45",
+      "question": "¿Edge Computing requiere siempre la existencia de Fog Computing?",
+      "options": [
+        "Sí, siempre",
+        "No, puede enviar resultados directamente a la nube",
+        "Solo en aplicaciones industriales",
+        "Solo con tecnología 5G"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "46",
+      "question": "¿En qué arquitectura se inspira el modelo de seguridad IoTSeMo propuesto?",
+      "options": [
+        "Arquitectura OSI",
+        "Arquitectura simplificada de IoT propuesta por Cisco",
+        "Arquitectura TCP/IP",
+        "Arquitectura de AWS"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "47",
+      "question": "¿Cuántas pilas utiliza el modelo IoTSeMo?",
+      "options": [
+        "Una pila",
+        "Dos pilas: pila funcional principal de IoT y pila de gestión de datos y computación",
+        "Tres pilas",
+        "Cuatro pilas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "48",
+      "question": "¿Qué paradigmas considera el modelo IoTSeMo?",
+      "options": [
+        "Solo Cloud",
+        "Edge, Fog y Cloud",
+        "Solo Edge",
+        "Solo Fog"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "49",
+      "question": "¿Cuántas capas debe tener cada paradigma (Edge, Fog, Cloud) según IoTSeMo?",
+      "options": [
+        "Dos capas",
+        "Tres capas: física, de comunicación y de aplicación",
+        "Cuatro capas",
+        "Cinco capas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "50",
+      "question": "¿Cuál es el objetivo del modelo IoTSeMo?",
+      "options": [
+        "Solo documentar arquitecturas",
+        "Analizar y categorizar aspectos de seguridad según elementos usados en Edge, Fog y Cloud",
+        "Solo reducir costos",
+        "Solo mejorar velocidad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "51",
+      "question": "¿Qué corresponde a la capa de acceso a la red en IoTSeMo?",
+      "options": [
+        "Solo aplicaciones",
+        "Tecnologías de acceso a la red (dispositivos y protocolos) que operan en capas 1 y 2 del modelo OSI",
+        "Solo bases de datos",
+        "Solo servicios web"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "52",
+      "question": "¿Qué capas del modelo OSI cubre la capa de acceso a la red en IoTSeMo?",
+      "options": [
+        "Capas 3 y 4",
+        "Capas 1 y 2 (física y de enlace)",
+        "Capas 5 y 6",
+        "Capa 7"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "53",
+      "question": "¿Por qué tecnologías como LoRa, Bluetooth y Zigbee necesitan un gateway según IoTSeMo?",
+      "options": [
+        "Solo por seguridad",
+        "No tienen acceso al protocolo IP y necesitan traducción bidireccional de protocolos",
+        "Solo por velocidad",
+        "No necesitan gateway"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "54",
+      "question": "¿En cuántas subcapas se divide la capa de comunicaciones en IoTSeMo?",
+      "options": [
+        "Una subcapa",
+        "Dos subcapas: Redes y Comunicaciones de extremo a extremo",
+        "Tres subcapas",
+        "Cuatro subcapas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "55",
+      "question": "¿De qué se encarga la subcapa de Redes en IoTSeMo?",
+      "options": [
+        "Solo de almacenamiento",
+        "Del direccionamiento global de dispositivos y enrutamiento de paquetes IP",
+        "Solo de aplicaciones",
+        "Solo de seguridad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "56",
+      "question": "¿Qué protocolos proporciona la subcapa de Comunicaciones de extremo a extremo?",
+      "options": [
+        "Solo HTTP",
+        "TCP y UDP, además de TLS para comunicaciones seguras",
+        "Solo FTP",
+        "Solo SMTP"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "57",
+      "question": "¿En cuántas subcapas se divide la capa de aplicación en IoTSeMo?",
+      "options": [
+        "Una subcapa",
+        "Dos subcapas: protocolos de aplicación TCP/IP y servicios elementales",
+        "Tres subcapas",
+        "Cuatro subcapas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "58",
+      "question": "¿Qué protocolos se mencionan en la subcapa de protocolos de aplicación TCP/IP?",
+      "options": [
+        "Solo HTTP",
+        "MQTT, COAP, ZMQ",
+        "Solo FTP",
+        "Solo SSH"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "59",
+      "question": "¿Qué servicios elementales menciona IoTSeMo?",
+      "options": [
+        "Solo almacenamiento",
+        "Almacenamiento, procesamiento, autenticación y cola de mensajes",
+        "Solo comunicación",
+        "Solo visualización"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "60",
+      "question": "¿Qué tipo de aplicación se usa como estudio de caso en el documento?",
+      "options": [
+        "Una aplicación bancaria",
+        "Un sistema de notificación de proximidad en tiempo real usando balizas IoT Bluetooth",
+        "Una aplicación de redes sociales",
+        "Un sistema de control industrial"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "61",
+      "question": "¿Qué son las balizas (beacons) IoT según el documento?",
+      "options": [
+        "Sensores de temperatura",
+        "Dispositivos Bluetooth de baja energía que funcionan como transmisores de radio",
+        "Routers WiFi",
+        "Servidores cloud"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "62",
+      "question": "¿Dónde se implementó el estudio de caso de la aplicación de proximidad?",
+      "options": [
+        "En un centro comercial",
+        "En el perímetro de una universidad",
+        "En un aeropuerto",
+        "En una fábrica"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "63",
+      "question": "¿Qué permite hacer la aplicación del estudio de caso a los usuarios?",
+      "options": [
+        "Solo recibir notificaciones",
+        "Gestionar preferencias, ver/eliminar notificaciones, calificar eventos y escribir comentarios",
+        "Solo comprar productos",
+        "Solo ver mapas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "64",
+      "question": "¿Qué componente de software se menciona para poner en cola mensajes en el estudio de caso?",
+      "options": [
+        "RabbitMQ",
+        "Apache Kafka",
+        "ActiveMQ",
+        "Redis"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "65",
+      "question": "¿Qué servicio se usa para notificar mensajes a dispositivos móviles en el estudio de caso?",
+      "options": [
+        "Apple Push Notification",
+        "Firebase Cloud Messaging (FCM)",
+        "AWS SNS",
+        "Azure Notification Hub"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "66",
+      "question": "¿Qué tecnología de comunicación usan las balizas con los smartphones en el caso de estudio?",
+      "options": [
+        "WiFi",
+        "Bluetooth",
+        "NFC",
+        "ZigBee"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "67",
+      "question": "¿Qué tecnología de red se usa para comunicación entre el teléfono del usuario y el API Gateway?",
+      "options": [
+        "WiFi",
+        "Ethernet (el API Gateway está en servidor local con red cableada)",
+        "5G",
+        "Bluetooth"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "68",
+      "question": "¿Qué protocolos de capa de aplicación se usan en el caso de estudio?",
+      "options": [
+        "Solo MQTT",
+        "HTTP y JDBC",
+        "Solo FTP",
+        "Solo WebSocket"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "69",
+      "question": "¿Qué servicio de autenticación se utiliza en el caso de estudio?",
+      "options": [
+        "OAuth",
+        "LDAP",
+        "SAML",
+        "Kerberos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "70",
+      "question": "¿Existe convergencia IP en la arquitectura del caso de estudio?",
+      "options": [
+        "No",
+        "Sí, por lo que no es necesario gateway de traducción de protocolos",
+        "Solo en algunos componentes",
+        "No se menciona"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "71",
+      "question": "¿Qué protocolo de transporte se usa en el caso de estudio?",
+      "options": [
+        "UDP",
+        "TCP",
+        "SCTP",
+        "QUIC"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "72",
+      "question": "¿Por qué la mayoría de fabricantes y desarrolladores IoT no consideran los riesgos de seguridad según el documento?",
+      "options": [
+        "Por ignorancia",
+        "Por afán de comercializar productos y falta de métodos claros para identificar qué proteger",
+        "Por regulaciones inadecuadas",
+        "Por falta de tecnología"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "73",
+      "question": "¿En qué contextos ya se utilizan los ecosistemas IoT según el documento?",
+      "options": [
+        "Solo en domótica",
+        "Sanidad, industria automotriz, domótica y otros",
+        "Solo en industria",
+        "Solo en telecomunicaciones"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "74",
+      "question": "¿Qué es necesario para lograr la computación ubicua según el documento?",
+      "options": [
+        "Solo más dispositivos",
+        "Despliegue global de tecnología 5G que permite comunicación entre dispositivos IoT e internet",
+        "Solo WiFi",
+        "Solo Bluetooth"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "75",
+      "question": "¿Qué significa IIoT?",
+      "options": [
+        "Internet Industrial Integration",
+        "IoT Industrial",
+        "Intelligent IoT",
+        "Integrated Industrial IoT"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "76",
+      "question": "¿Qué debe garantizarse en algunos casos de aplicaciones IoT según el documento?",
+      "options": [
+        "Solo velocidad",
+        "Confidencialidad, privacidad y manejo adecuado de información conforme a leyes reguladoras",
+        "Solo bajo costo",
+        "Solo facilidad de uso"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "77",
+      "question": "¿Qué sacrifican los fabricantes de dispositivos IoT según el documento?",
+      "options": [
+        "La funcionalidad",
+        "La seguridad (priorizan funcionalidad pero sacrifican seguridad)",
+        "El costo",
+        "El tamaño"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "78",
+      "question": "¿Qué limitaciones tienen la mayoría de los dispositivos IoT?",
+      "options": [
+        "Solo de conectividad",
+        "Limitaciones de almacenamiento y procesamiento",
+        "Solo de batería",
+        "Solo de tamaño"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "79",
+      "question": "¿Qué función adicional cumple el gateway además de traducir protocolos?",
+      "options": [
+        "Solo transmitir datos",
+        "Administrar dispositivos de la capa de acceso (monitorear cuando se unen o abandonan la red)",
+        "Solo almacenar datos",
+        "Solo proporcionar energía"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "80",
+      "question": "¿Qué significa TLS en el contexto de seguridad en comunicaciones?",
+      "options": [
+        "Transfer Layer Service",
+        "Transport Layer Security (Seguridad de Capa de Transporte)",
+        "Technical Link System",
+        "Total Link Security"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "81",
+      "question": "¿Qué característica NO es mencionada como principal de la computación en la nube?",
+      "options": [
+        "Autoservicio bajo demanda",
+        "Complejidad obligatoria en gestión",
+        "Amplio acceso a la red",
+        "Elasticidad rápida"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "82",
+      "question": "¿Qué es un transductor en el contexto de sensores IoT?",
+      "options": [
+        "Un tipo de actuador",
+        "Componente que convierte un estímulo del entorno en impulso eléctrico",
+        "Un protocolo de comunicación",
+        "Un tipo de gateway"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "83",
+      "question": "¿Qué medidas pueden realizar los sensores de propósito general?",
+      "options": [
+        "Solo temperatura",
+        "Proximidad, señales de humo, temperatura, humedad, luz, etc.",
+        "Solo luz",
+        "Solo movimiento"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "84",
+      "question": "¿Qué tipo de acciones pueden realizar los actuadores?",
+      "options": [
+        "Solo físicas",
+        "Acciones físicas (como activar bomba) y lógicas (como enviar mensaje de texto)",
+        "Solo lógicas",
+        "Solo de comunicación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "85",
+      "question": "¿Qué hacen los lectores RFID?",
+      "options": [
+        "Solo almacenar datos",
+        "Envían comandos modulados para interrogar y activar etiquetas, verifican autenticidad",
+        "Solo transmitir datos",
+        "Solo medir variables"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "86",
+      "question": "¿Qué significa WAVE en tecnologías IoT?",
+      "options": [
+        "Wireless Audio Video Extension",
+        "IEEE 1609 - tecnología que funciona sobre WiFi",
+        "Wide Area Virtual Environment",
+        "Wireless Advanced Vehicle Equipment"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "87",
+      "question": "¿Qué factores determinan qué tecnología de comunicación usar en IoT?",
+      "options": [
+        "Solo el costo",
+        "Restricciones de ancho de banda, consumo de energía, alcance de cobertura",
+        "Solo la velocidad",
+        "Solo la disponibilidad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "88",
+      "question": "¿Qué tipos de redes pueden usarse como medio de transporte en IoT?",
+      "options": [
+        "Solo inalámbricas",
+        "Cableadas o inalámbricas, públicas, privadas o híbridas",
+        "Solo públicas",
+        "Solo privadas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "89",
+      "question": "¿Qué significa XMPP?",
+      "options": [
+        "eXtended Message Protocol",
+        "Extensible Messaging and Presence Protocol",
+        "eXtreme Messaging Processing Protocol",
+        "eXternal Message Passing Protocol"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "90",
+      "question": "¿Qué significa DDS en protocolos IoT?",
+      "options": [
+        "Digital Data Service",
+        "Data Distribution Service",
+        "Dynamic Data System",
+        "Distributed Data Standard"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "91",
+      "question": "¿Qué significa AMQP?",
+      "options": [
+        "Advanced Message Query Protocol",
+        "Advanced Message Queuing Protocol",
+        "Automated Message Queue Processing",
+        "Active Message Quality Protocol"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "92",
+      "question": "¿Qué significa eMTC?",
+      "options": [
+        "extended Mobile Technology Control",
+        "Enhanced Machine Type Communication (Comunicación Mejorada Tipo Máquina)",
+        "efficient Mobile Transfer Control",
+        "electronic Mobile Transmission Channel"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "93",
+      "question": "¿Qué significa NB-IoT?",
+      "options": [
+        "Network Based IoT",
+        "Narrowband IoT (IoT de Banda Estrecha)",
+        "New Broadband IoT",
+        "Network Bridge IoT"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "94",
+      "question": "¿Cuál es la utilidad principal del modelo IoTSeMo según el documento?",
+      "options": [
+        "Solo documentar arquitecturas",
+        "Identificar claramente necesidades de seguridad según tipo de dispositivos, datos y necesidad de controles",
+        "Solo reducir costos",
+        "Solo mejorar velocidad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "95",
+      "question": "¿Qué aspectos de seguridad permite categorizar IoTSeMo?",
+      "options": [
+        "Solo ciberseguridad",
+        "Ciberseguridad, seguridad de información y necesidades según capas física, comunicación y aplicación",
+        "Solo seguridad física",
+        "Solo seguridad de red"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "96",
+      "question": "¿En qué fase del desarrollo es útil el modelo IoTSeMo?",
+      "options": [
+        "Solo en producción",
+        "En la fase de diseño de software para establecer criterios de selección de componentes",
+        "Solo en pruebas",
+        "Solo en mantenimiento"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "97",
+      "question": "¿Qué enfoque puede usar IoTSeMo en la fase de diseño?",
+      "options": [
+        "Solo bottom-up",
+        "Enfoque descendente (top-down) para mapear componentes y facilitar identificación de responsables",
+        "Solo horizontal",
+        "Solo vertical"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "98",
+      "question": "¿Qué trabajo futuro se menciona en el documento?",
+      "options": [
+        "Solo implementar más aplicaciones",
+        "Investigar seguridad en cada capa del modelo según tecnologías más usadas para proveer guía a desarrolladores",
+        "Solo reducir costos",
+        "Solo mejorar velocidad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "99",
+      "question": "¿Qué problema de seguridad se menciona en el caso de estudio de las balizas?",
+      "options": [
+        "Solo robo de datos",
+        "Envío de notificaciones falsas para inducir al usuario a acercarse a un lugar con malas intenciones",
+        "Solo hackeo de cuentas",
+        "Solo virus"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "100",
+      "question": "¿Por qué las aplicaciones de balizas se ofrecen sin medidas de seguridad según el documento?",
+      "options": [
+        "Por falta de tecnología",
+        "Porque la información que usan no se considera sensible, aunque sí presentan riesgos",
+        "Por regulaciones",
+        "Por reducir costos"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

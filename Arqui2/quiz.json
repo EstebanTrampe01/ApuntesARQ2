@@ -1,0 +1,1105 @@
+{
+  "title": "Quiz Completo - LIBRO 1: Bienvenidos a la revolución del IoT",
+  "questions": [
+    {
+      "id": "1",
+      "question": "¿Qué significa IIoT?",
+      "options": [
+        "Internet Industrial de las Cosas",
+        "Infraestructura Industrial de Tecnología",
+        "Integración Industrial de Telecomunicaciones",
+        "Innovación Industrial de Transformación"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "2",
+      "question": "¿Qué proveedor de servicios en la nube se utiliza principalmente en este libro para los ejemplos prácticos?",
+      "options": [
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "Amazon Web Services (AWS)",
+        "IBM Cloud"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "3",
+      "question": "¿Cuál es el concepto central de la Industria 4.0?",
+      "options": [
+        "La producción manual",
+        "La automatización y digitalización de la industria y los sistemas de fabricación",
+        "El uso exclusivo de robótica",
+        "La eliminación completa del factor humano"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "4",
+      "question": "¿Cuándo tuvo lugar la primera Revolución Industrial?",
+      "options": [
+        "A principios del siglo XVII",
+        "A finales del siglo XVIII (década de 1780)",
+        "A mediados del siglo XIX",
+        "A principios del siglo XX"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "5",
+      "question": "¿Qué tecnología marcó el inicio de la primera Revolución Industrial?",
+      "options": [
+        "La máquina de vapor",
+        "El telar mecánico",
+        "El motor de combustión",
+        "La electricidad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "6",
+      "question": "¿Qué fuente de energía fue fundamental para la primera Revolución Industrial?",
+      "options": [
+        "Petróleo",
+        "Energía eólica",
+        "Carbón y vapor",
+        "Electricidad"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "7",
+      "question": "¿Cuál es otro nombre para la segunda Revolución Industrial?",
+      "options": [
+        "Revolución Mecánica",
+        "Revolución Tecnológica",
+        "Revolución Digital",
+        "Revolución Eléctrica"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "8",
+      "question": "¿Quién es atribuido con la invención de la línea de montaje en 1913?",
+      "options": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Henry Ford",
+        "Alexander Graham Bell"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "9",
+      "question": "¿Cuándo comenzó la tercera Revolución Industrial?",
+      "options": [
+        "A principios del siglo XIX",
+        "A mediados del siglo XIX",
+        "A finales del siglo XX",
+        "A principios del siglo XXI"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "10",
+      "question": "¿Cómo se llama la tercera Revolución Industrial?",
+      "options": [
+        "Revolución Mecánica",
+        "Revolución Tecnológica",
+        "Revolución Digital",
+        "Revolución Industrial"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "11",
+      "question": "¿Qué invención de 1947 fue crítica para la tercera Revolución Industrial?",
+      "options": [
+        "El microprocesador",
+        "El transistor",
+        "El circuito integrado",
+        "La computadora personal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "12",
+      "question": "¿En qué año Intel creó el microprocesador de un solo chip?",
+      "options": [
+        "1947",
+        "1965",
+        "1971",
+        "1980"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "13",
+      "question": "¿Qué clasificación protege la carcasa de sensores contra el acceso a componentes internos y la entrada de líquidos, polvo o suciedad?",
+      "options": [
+        "Clasificación NEMA",
+        "Clasificación IP",
+        "Clasificación ISO",
+        "Clasificación IEEE"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "14",
+      "question": "¿Qué significa una clasificación IP67?",
+      "options": [
+        "Protección básica contra polvo",
+        "Carcasa sólida protegida contra la entrada de polvo y la inmersión temporal en agua",
+        "Solo protección contra agua",
+        "Protección contra altas temperaturas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "15",
+      "question": "¿Qué significa NEMA?",
+      "options": [
+        "National Electrical Manufacturers Association",
+        "New Environmental Management Agency",
+        "Network Equipment Manufacturing Alliance",
+        "National Energy Monitoring Authority"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "16",
+      "question": "¿En qué tipo de entornos se requiere una carcasa NEMA Clase I o Clase II?",
+      "options": [
+        "Entornos con alta humedad",
+        "Entornos con líquidos corrosivos, gases o vapores inflamables o polvo combustible",
+        "Entornos con temperaturas extremas",
+        "Entornos submarinos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "17",
+      "question": "¿Qué significa LPWAN?",
+      "options": [
+        "Long Power Wide Area Network",
+        "Low Power Wide Area Network (Redes de área amplia de baja potencia)",
+        "Large Protocol Wireless Access Network",
+        "Local Private Wireless Area Network"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "18",
+      "question": "¿Qué protocolo de comunicaciones serie estándar se utiliza en agricultura y meteorología?",
+      "options": [
+        "Modbus",
+        "RS-485",
+        "SDI-12",
+        "I2C"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "19",
+      "question": "¿Qué empresa de España ofrece soluciones robustas de mezclar y combinar para sensores y opciones de comunicación?",
+      "options": [
+        "Siemens",
+        "Bosch",
+        "Libelium",
+        "Schneider Electric"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "20",
+      "question": "¿Qué significa IT en el contexto de tecnología?",
+      "options": [
+        "Internet Technology",
+        "Information Technology (Tecnología de la Información)",
+        "Industrial Technology",
+        "Integrated Technology"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "21",
+      "question": "¿Qué significa OT?",
+      "options": [
+        "Operating Technology",
+        "Operational Technology (Tecnología Operativa)",
+        "Organizational Technology",
+        "Optimized Technology"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "22",
+      "question": "¿Qué significa SCADA?",
+      "options": [
+        "System Control and Data Acquisition",
+        "Supervisory Control and Data Acquisition (Control Supervisorio y Adquisición de Datos)",
+        "Software Control and Digital Analysis",
+        "Secure Communication and Data Access"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "23",
+      "question": "¿Cuál es la diferencia principal entre IT y OT según el libro?",
+      "options": [
+        "IT es más moderna que OT",
+        "IT es un entorno más abierto, mientras que OT es un entorno más cerrado dentro de las paredes de la fábrica",
+        "IT es más segura que OT",
+        "No hay diferencia entre ellas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "24",
+      "question": "¿Qué significa OEE?",
+      "options": [
+        "Overall Equipment Effectiveness",
+        "Eficacia General de los Equipos (Overall Equipment Efficiency)",
+        "Operational Excellence Evaluation",
+        "Optimized Energy Efficiency"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "25",
+      "question": "¿Qué mide la OEE?",
+      "options": [
+        "Solo la velocidad de producción",
+        "La productividad de la fabricación mediante el análisis de disponibilidad, rendimiento y calidad",
+        "Solo los costos de producción",
+        "El consumo de energía"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "26",
+      "question": "Según la hoja de ruta de la Industria 4.0 presentada, ¿cuál es el primer paso hacia la digitalización?",
+      "options": [
+        "Automatización y mejora",
+        "Predicción y alerta",
+        "Instrumento y conexión",
+        "Línea base y análisis"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "27",
+      "question": "¿Cuál es el segundo paso en la hoja de ruta de la Industria 4.0?",
+      "options": [
+        "Automatización y mejora",
+        "Línea base y análisis",
+        "Predicción y alerta",
+        "Instrumento y conexión"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "28",
+      "question": "¿Cuál es el tercer paso en la hoja de ruta de la Industria 4.0?",
+      "options": [
+        "Instrumento y conexión",
+        "Línea base y análisis",
+        "Predicción y alerta",
+        "Automatización y mejora"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "29",
+      "question": "¿Cuál es el cuarto y último paso en la hoja de ruta de la Industria 4.0?",
+      "options": [
+        "Predicción y alerta",
+        "Línea base y análisis",
+        "Instrumento y conexión",
+        "Automatización y mejora"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "30",
+      "question": "¿Qué tipo de mantenimiento consiste en mantener los equipos funcionando hasta que se averían?",
+      "options": [
+        "Mantenimiento preventivo",
+        "Mantenimiento reactivo",
+        "Mantenimiento predictivo",
+        "Mantenimiento basado en condición"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "31",
+      "question": "¿Qué tipo de mantenimiento se basa en el calendario o en el uso (número de horas)?",
+      "options": [
+        "Mantenimiento reactivo",
+        "Mantenimiento preventivo",
+        "Mantenimiento predictivo",
+        "Mantenimiento basado en condición"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "32",
+      "question": "¿Qué tipo de mantenimiento analiza las condiciones en tiempo real de cada activo?",
+      "options": [
+        "Mantenimiento reactivo",
+        "Mantenimiento preventivo",
+        "Mantenimiento basado en la condición",
+        "Mantenimiento correctivo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "33",
+      "question": "¿Qué tipo de mantenimiento incorpora modelos de aprendizaje automático para prever problemas potenciales?",
+      "options": [
+        "Mantenimiento reactivo",
+        "Mantenimiento preventivo",
+        "Mantenimiento predictivo o prescriptivo",
+        "Mantenimiento correctivo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "34",
+      "question": "Según el libro, ¿cuál es una de las primeras cosas que se debe hacer al abordar un nuevo proyecto IoT en un entorno de producción?",
+      "options": [
+        "Implementar inmediatamente todos los sensores",
+        "Escuchar y aprender de los operadores y expertos",
+        "Cambiar todos los sistemas existentes",
+        "Ignorar las preocupaciones del equipo de producción"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "35",
+      "question": "¿Qué significa encapsular en el contexto de protección de sensores?",
+      "options": [
+        "Colocar el sensor en una caja metálica",
+        "Rellenar o rodear la electrónica con gel o resina epoxi para protegerla",
+        "Pintar el sensor con pintura protectora",
+        "Envolver el sensor en plástico"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "36",
+      "question": "¿Cuál es una desventaja del encapsulado de componentes electrónicos?",
+      "options": [
+        "Es muy costoso",
+        "No protege contra vibraciones",
+        "Es irreversible y requiere reemplazar todo el conjunto si falla una pieza",
+        "Reduce la vida útil del componente"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "37",
+      "question": "¿Qué es un nodo sensor?",
+      "options": [
+        "Solo el sensor que mide variables físicas",
+        "El dispositivo que lee los datos del sensor y los transmite al receptor",
+        "Un tipo de red de sensores",
+        "Un software de análisis de datos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "38",
+      "question": "Según el ejemplo del libro, ¿qué tecnología de comunicación superaba a LoRa en distancia pero fracasó por falta de sensores compatibles?",
+      "options": [
+        "Una startup de IoT en Nevada con tecnología propietaria",
+        "Sigfox",
+        "NB-IoT",
+        "Zigbee"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "39",
+      "question": "¿Qué significa LoRa?",
+      "options": [
+        "Long Range (Largo Alcance)",
+        "Low Radiation",
+        "Local Radio",
+        "Limited Range"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "40",
+      "question": "¿Qué concepto permite saber si algo está funcionando y cuándo un sistema está caído?",
+      "options": [
+        "Observabilidad",
+        "Monitorización",
+        "Automatización",
+        "Virtualización"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "41",
+      "question": "¿Qué concepto te permite saber mejor POR QUÉ algo está caído o no funciona al nivel óptimo?",
+      "options": [
+        "Monitorización",
+        "Observabilidad",
+        "Automatización",
+        "Instrumentación básica"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "42",
+      "question": "Según el libro, ¿qué permite la instrumentación?",
+      "options": [
+        "La observabilidad",
+        "La monitorización",
+        "La automatización",
+        "La virtualización"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "43",
+      "question": "Según el libro, ¿qué permite la monitorización?",
+      "options": [
+        "La instrumentación",
+        "La observabilidad",
+        "Solo alertas básicas",
+        "Ninguna de las anteriores"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "44",
+      "question": "¿Cuál es uno de los aspectos clave a considerar para reducir costos en implementaciones IoT a gran escala?",
+      "options": [
+        "Usar siempre el hardware más económico",
+        "La repetibilidad en los procesos de despliegue y configuración",
+        "Evitar cualquier tipo de estandarización",
+        "Implementar todo de una sola vez"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "45",
+      "question": "¿Qué modelo de referencia arquitectónico fue desarrollado a mediados de la década de 1990 para sistemas industriales?",
+      "options": [
+        "Modelo de Arquitectura AWS",
+        "Arquitectura de Referencia de Purdue",
+        "Modelo OSI",
+        "Arquitectura TCP/IP"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "46",
+      "question": "¿Qué estándar se basa en el modelo Purdue y define estándares para la interconexión de sistemas de control de producción y sistemas de TI empresariales?",
+      "options": [
+        "ISO 9001",
+        "IEEE 802.11",
+        "ISA-95",
+        "ISO 27001"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "47",
+      "question": "¿Qué significa EA en el contexto del libro?",
+      "options": [
+        "Electronic Architecture",
+        "Enterprise Architecture (Arquitectura Empresarial)",
+        "Environmental Analysis",
+        "Equipment Automation"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "48",
+      "question": "¿Cuál es el enfoque recomendado para crear modelos de referencia según el libro?",
+      "options": [
+        "Crear diagramas extremadamente complejos con todos los detalles",
+        "Dividir el modelo en diferentes niveles de complejidad (nivel 0, 1, 2, 3)",
+        "Usar solo texto sin diagramas",
+        "Evitar cualquier tipo de documentación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "49",
+      "question": "¿Qué es un diagrama de nivel 0 en arquitectura?",
+      "options": [
+        "El diagrama más detallado",
+        "Un diagrama de nivel general o alto nivel",
+        "Un diagrama de bajo nivel",
+        "No existe tal concepto"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "50",
+      "question": "Según el libro, ¿cuál es uno de los objetivos principales del IoT en la Industria 4.0?",
+      "options": [
+        "Reemplazar completamente a los trabajadores humanos",
+        "Proporcionar visibilidad profunda en sistemas y entornos para mejorar decisiones y operaciones",
+        "Aumentar el consumo de energía",
+        "Reducir la calidad de los productos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "51",
+      "question": "¿Qué tipo de datos puede proporcionar el IoT que antes estaban ocultos en sistemas OT?",
+      "options": [
+        "Solo datos de temperatura",
+        "Datos en tiempo real de producción, estado de máquinas y condiciones operativas",
+        "Solo datos financieros",
+        "Solo datos de recursos humanos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "52",
+      "question": "¿Cuál es una ventaja de la Industria 4.0 desde el punto de vista ambiental?",
+      "options": [
+        "Mayor consumo de recursos",
+        "La eficiencia significa menos desperdicio, menos uso de energía y potencialmente menos contaminación",
+        "Mayor producción de residuos",
+        "No tiene impacto ambiental"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "53",
+      "question": "¿Qué significa el concepto de 'convergencia' en el contexto de la Industria 4.0?",
+      "options": [
+        "La fusión de empresas competidoras",
+        "La colaboración entre TI, OT, negocios y gestión para beneficio común",
+        "La eliminación de departamentos",
+        "La centralización de todas las decisiones"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "54",
+      "question": "¿Por qué es importante definir una línea base (baseline) en un sistema industrial?",
+      "options": [
+        "No es importante",
+        "Para comprender qué es normal en el funcionamiento y detectar anomalías",
+        "Solo para cumplir con regulaciones",
+        "Para reducir costos inmediatamente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "55",
+      "question": "¿Cuánto tiempo puede tomar definir una línea base completa según el libro?",
+      "options": [
+        "Un día",
+        "Una semana",
+        "Varios ciclos de producción, que podrían ser meses o años en algunos casos",
+        "Siempre es inmediato"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "56",
+      "question": "¿Qué tipo de análisis comienza cuando se pueden predecir problemas basándose en patrones de datos?",
+      "options": [
+        "Análisis reactivo",
+        "Análisis descriptivo",
+        "Análisis predictivo",
+        "Análisis financiero"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "57",
+      "question": "¿Qué tecnologías son facilitadores críticos de la Industria 4.0 según el libro?",
+      "options": [
+        "Solo robótica",
+        "IoT y tecnologías de nube",
+        "Solo inteligencia artificial",
+        "Solo realidad virtual"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "58",
+      "question": "¿Qué debe considerarse al decidir la frecuencia de recopilación de datos de sensores?",
+      "options": [
+        "Siempre recopilar datos lo más rápido posible sin importar el costo",
+        "El equilibrio entre la necesidad del negocio, costos de almacenamiento y ancho de banda",
+        "Solo recopilar datos una vez al día",
+        "No importa la frecuencia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "59",
+      "question": "¿Qué significa 'edge' o 'borde' en el contexto de IoT?",
+      "options": [
+        "El final de la red",
+        "El procesamiento y análisis de datos cerca de donde se generan, antes de enviarlos a la nube",
+        "Una marca de equipos",
+        "Un tipo de sensor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "60",
+      "question": "¿Cuál es una razón para NO instrumentar todo en un sistema inmediatamente?",
+      "options": [
+        "Es demasiado fácil",
+        "Invertir en equipos, ancho de banda y almacenamiento para datos que nunca se usan es mala inversión",
+        "No hay razón, siempre se debe instrumentar todo",
+        "Los sensores son gratuitos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "61",
+      "question": "¿Qué departamentos deben colaborar para definir qué datos recopilar según el libro?",
+      "options": [
+        "Solo el departamento de TI",
+        "Solo el departamento de operaciones",
+        "Las áreas de negocio, operaciones y TI",
+        "Solo recursos humanos"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "62",
+      "question": "¿Qué sucede si un sensor no está diseñado para el protocolo de comunicación elegido?",
+      "options": [
+        "Siempre funcionará de todos modos",
+        "Puede haber discrepancias y incompatibilidades que impidan la comunicación",
+        "No importa el protocolo",
+        "El sensor se adaptará automáticamente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "63",
+      "question": "¿Qué consideración es importante al elegir entre sensores calibrados y no calibrados?",
+      "options": [
+        "Los calibrados son siempre más baratos",
+        "Los calibrados pueden ser necesarios para cumplir estándares como NIST en ciertas aplicaciones",
+        "No hay diferencia entre ellos",
+        "Los no calibrados son siempre mejores"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "64",
+      "question": "¿Qué significa NIST?",
+      "options": [
+        "National Institute of Standards and Technology",
+        "Network Information Security Technology",
+        "New Industrial Sensor Technology",
+        "National IoT Standards Treaty"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "65",
+      "question": "¿Por qué es importante la escalabilidad en soluciones IoT?",
+      "options": [
+        "No es importante",
+        "Para poder desplegar rápidamente numerosos sensores (decenas, cientos o miles)",
+        "Solo para empresas grandes",
+        "Solo para reducir costos iniciales"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "66",
+      "question": "¿Qué aspecto de la escalabilidad no solo se refiere al hardware?",
+      "options": [
+        "El color de los sensores",
+        "El software y almacenamiento deben estar configurados para gestionar grandes volúmenes de datos",
+        "La marca del fabricante",
+        "El idioma de la interfaz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "67",
+      "question": "¿Qué tipo de seguridad es el primer paso a considerar en despliegues de sensores IoT?",
+      "options": [
+        "Seguridad de software",
+        "Seguridad física del lugar de despliegue",
+        "Seguridad de red",
+        "Seguridad de datos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "68",
+      "question": "¿Qué deben hacer los arquitectos según el libro respecto a las buenas prácticas?",
+      "options": [
+        "Ignorarlas completamente",
+        "Seguirlas rígidamente sin adaptación",
+        "Usarlas como guía pero adaptarlas a su situación específica",
+        "Solo copiar lo que hacen otras empresas"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "69",
+      "question": "¿Qué papel juega el cambio de mentalidad en la adopción de la Industria 4.0?",
+      "options": [
+        "No tiene ningún papel",
+        "Es fundamental para adoptar un enfoque de digitalización y mejora continua",
+        "Solo importa para la gerencia",
+        "Solo importa para el personal técnico"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "70",
+      "question": "¿Qué tipo de mantenimiento permite no realizar el mantenimiento ni demasiado pronto ni demasiado tarde?",
+      "options": [
+        "Mantenimiento reactivo",
+        "Mantenimiento preventivo",
+        "Mantenimiento basado en la condición",
+        "Mantenimiento correctivo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "71",
+      "question": "¿Qué puede ayudar a predecir problemas antes de que ocurran en mantenimiento predictivo?",
+      "options": [
+        "Solo la experiencia humana",
+        "Modelos de aprendizaje automático basados en datos históricos",
+        "Adivinar basándose en el calendario",
+        "No es posible predecir problemas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "72",
+      "question": "¿Qué consideran algunos como diferencia entre mantenimiento predictivo y prescriptivo?",
+      "options": [
+        "Son exactamente lo mismo",
+        "Predictivo prevé problemas, prescriptivo proporciona recomendaciones basadas en esos resultados",
+        "Solo el nombre",
+        "No existe el mantenimiento prescriptivo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "73",
+      "question": "¿Qué mentalidad de los equipos de producción se menciona como desafío al implementar nuevas tecnologías?",
+      "options": [
+        "La mentalidad de innovación constante",
+        "La mentalidad 'don't-touch-it' (no lo toques) cuando los sistemas son antiguos",
+        "La mentalidad de cambio rápido",
+        "No se menciona ningún desafío"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "74",
+      "question": "¿Qué debe hacer el equipo de TI para ganar la confianza de los equipos de operaciones?",
+      "options": [
+        "Imponer sus soluciones sin consultar",
+        "Ignorar las preocupaciones de operaciones",
+        "Escuchar, aprender, definir el éxito conjuntamente y proceder con cautela",
+        "Reemplazar todo el equipo de operaciones"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "75",
+      "question": "¿Qué pueden proporcionar los operadores de campo según el libro?",
+      "options": [
+        "Nada útil",
+        "Información valiosa sobre cómo hacen su trabajo y cómo podrían mejorarse las cosas",
+        "Solo quejas",
+        "Resistencia al cambio siempre"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "76",
+      "question": "¿Qué se recomienda hacer antes de comprometerse completamente con una solución de sensores?",
+      "options": [
+        "Implementar todo inmediatamente",
+        "Realizar pruebas piloto o simulaciones rápidas",
+        "Esperar a que otros lo hagan primero",
+        "No hacer ninguna prueba"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "77",
+      "question": "¿Qué deben considerar los arquitectos al diseñar sistemas IoT?",
+      "options": [
+        "Solo el costo inicial",
+        "Equilibrio entre diferentes factores: costo, fiabilidad, escalabilidad, seguridad",
+        "Solo la velocidad de implementación",
+        "Solo la tecnología más nueva"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "78",
+      "question": "¿Qué se menciona sobre el enfoque de diseño arquitectónico?",
+      "options": [
+        "Siempre diseñar para cada posible caso futuro",
+        "Caminar una línea delgada entre diseñar para el futuro y construir solo lo necesario ahora",
+        "Nunca pensar en el futuro",
+        "Solo copiar arquitecturas existentes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "79",
+      "question": "¿Qué beneficio proporcionan los modelos de referencia según el libro?",
+      "options": [
+        "Ninguno, son innecesarios",
+        "Guían cómo las cosas pueden encajar y proporcionan comunicación clara entre stakeholders",
+        "Solo complican las cosas",
+        "Solo sirven para documentación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "80",
+      "question": "¿Qué se menciona sobre la adaptación de modelos de referencia?",
+      "options": [
+        "Nunca se deben adaptar",
+        "Deben seguirse exactamente como están publicados",
+        "Es esperado y comprensible adaptarlos a tu entorno específico",
+        "Solo las grandes empresas pueden adaptarlos"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "81",
+      "question": "¿Qué importancia tiene la comunicación en proyectos de Industria 4.0?",
+      "options": [
+        "No es importante",
+        "Es fundamental para asegurar que todos los stakeholders entiendan y acuerden el enfoque",
+        "Solo importa al final del proyecto",
+        "Solo la gerencia necesita comunicarse"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "82",
+      "question": "¿Qué áreas organizacionales deben trabajar juntas para el éxito de la Industria 4.0?",
+      "options": [
+        "Solo TI",
+        "Solo operaciones",
+        "TI, operaciones, negocios y gestión",
+        "Solo recursos humanos"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "83",
+      "question": "¿Qué puede mejorar el IoT en términos de mantenimiento?",
+      "options": [
+        "Nada",
+        "Los ciclos de mantenimiento, afectando positivamente la planificación y producción",
+        "Solo los costos",
+        "Solo la documentación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "84",
+      "question": "¿Qué información puede proporcionar el IoT para la toma de decisiones empresariales?",
+      "options": [
+        "Solo datos técnicos sin valor",
+        "Información sobre producción, calidad, eficiencia y condiciones operativas en tiempo real",
+        "Solo datos históricos",
+        "Ninguna información útil"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "85",
+      "question": "¿Qué relación existe entre la instrumentación y la visibilidad según el libro?",
+      "options": [
+        "No están relacionadas",
+        "La instrumentación precisa permite mayor visibilidad de las condiciones normales y anomalías",
+        "La visibilidad es independiente de la instrumentación",
+        "Son conceptos opuestos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "86",
+      "question": "¿Qué ventaja menciona el libro sobre operaciones globalmente distribuidas?",
+      "options": [
+        "No hay ventajas",
+        "Combinar y comparar información de sistemas globales puede brindar nuevas oportunidades para toma de decisiones",
+        "Solo complica las cosas",
+        "Es imposible gestionar operaciones distribuidas con IoT"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "87",
+      "question": "¿Qué debe existir a lo largo del proceso de monitorización según el libro?",
+      "options": [
+        "Rigidez absoluta",
+        "Un bucle de retroalimentación para ajustes y actualizaciones",
+        "Independencia total de cada área",
+        "Ninguna comunicación entre áreas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "88",
+      "question": "¿Cómo describe el libro el papel de las empresas en impulsar la innovación IoT?",
+      "options": [
+        "Las empresas deben esperar a que otros innoven primero",
+        "Las empresas y la gerencia definen qué información necesitan para decisiones, luego operaciones determina cómo obtenerla",
+        "Solo TI debe decidir qué implementar",
+        "Las empresas no tienen papel en la innovación técnica"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "89",
+      "question": "¿Qué advierte el libro sobre información de casos de uso de IoT en internet?",
+      "options": [
+        "Toda la información es completamente precisa",
+        "Puede estar impulsada por marketing y ventas, y ser engañosa si no conoces bien el sector",
+        "No existe información sobre IoT en internet",
+        "Siempre debes implementar exactamente lo que lees"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "90",
+      "question": "¿Qué se necesita para interpretar datos clave y alcanzar objetivos empresariales?",
+      "options": [
+        "Solo software avanzado",
+        "Expertos en la materia que comprendan el dominio y puedan explicar cómo lograr objetivos",
+        "Solo análisis automáticos",
+        "No se necesita interpretación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "91",
+      "question": "¿Qué tipo de información puede necesitar la gerencia según el libro?",
+      "options": [
+        "Solo datos técnicos complejos",
+        "OEE, informes de tiempos de inactividad, pronósticos detallados de líneas de servicio",
+        "Solo información financiera básica",
+        "No necesitan ninguna información específica"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "92",
+      "question": "¿Qué proceso permite medir la productividad de la fabricación?",
+      "options": [
+        "ROI",
+        "OEE (Eficacia General de los Equipos)",
+        "KPI genéricos",
+        "Balance general"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "93",
+      "question": "¿Qué aspectos analiza la OEE?",
+      "options": [
+        "Solo costos",
+        "Disponibilidad, rendimiento de equipos y calidad de producción",
+        "Solo velocidad de producción",
+        "Solo consumo de energía"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "94",
+      "question": "¿Qué enfoque recomienda el libro para avanzar en la Industria 4.0?",
+      "options": [
+        "Cambiar todo de una vez",
+        "Mejora sistemática e incremental, obteniendo valor en el camino",
+        "Esperar a que la tecnología sea perfecta",
+        "Solo planificar sin implementar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "95",
+      "question": "¿Qué se menciona sobre el tiempo requerido para lograr la visión de Industria 4.0?",
+      "options": [
+        "Se puede completar en un día",
+        "Requiere esfuerzo y tiempo y no se puede completar todo de una vez",
+        "Es instantáneo con la tecnología adecuada",
+        "No vale la pena el esfuerzo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "96",
+      "question": "¿Qué desafío especial enfrentan las operaciones industriales heredadas o de campo marrón?",
+      "options": [
+        "Ningún desafío especial",
+        "Han estado en servicio durante décadas y requieren enfoque cauteloso",
+        "Son fáciles de modernizar",
+        "Deben reemplazarse completamente siempre"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "97",
+      "question": "¿Qué se menciona sobre la variabilidad en industrias como la agricultura?",
+      "options": [
+        "No existe variabilidad",
+        "Algunas industrias producen resultados muy variados basados en condiciones externas",
+        "Todas las industrias son iguales",
+        "La variabilidad no importa"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "98",
+      "question": "¿Cuál es la esencia de la Industria 4.0 según el libro?",
+      "options": [
+        "Solo robots",
+        "Se trata de datos y la gestión de esos datos para obtener información y conocimiento",
+        "Solo automatización básica",
+        "Eliminar trabajadores humanos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "99",
+      "question": "¿Qué permite la Industria 4.0 en comparación con enfoques tradicionales?",
+      "options": [
+        "Nada diferente",
+        "Superar el enfoque tradicional mediante datos, análisis y capacidad de mejora continua",
+        "Solo reducir costos",
+        "Solo aumentar la velocidad de producción"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "100",
+      "question": "¿Qué lección histórica menciona el libro sobre las revoluciones industriales?",
+      "options": [
+        "Todas fueron fáciles y sin resistencia",
+        "En cada etapa de cambio, muchos consideraron el cambio innecesario o demasiado rápido",
+        "Todos aceptaron los cambios inmediatamente",
+        "No hubo lecciones que aprender"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}
